@@ -1,8 +1,6 @@
 # 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 이한빈입니다!
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=주어진%20자리에서%20최선을%20다하겠습니다!&fontSize=50" />
-</p>
+![header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=주어진%20자리에서%20최선을%20다하겠습니다!&fontSize=45)
 
 ### 👨‍💻 About Me
 - 💡 **Problem Solver**: 복잡한 비즈니스 로직을 MSA 구조로 풀어내는 과정에 몰입합니다.
