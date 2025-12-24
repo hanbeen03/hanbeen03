@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats & Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanbeen03&show_icons=true&theme=radical" alt="hanbeen03's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbeen03&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanbeen03&show_icons=true&theme=radical" alt="hanbeen03's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanbeen03&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
