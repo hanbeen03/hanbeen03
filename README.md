@@ -1,6 +1,6 @@
 # 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 이한빈입니다!
 
-<img src="https://k-header.vercel.app/api?text=Best%20Backend%20Developer&fontSize=40&fontColor=ffffff&centerX=50&centerY=50&width=900&height=200&background=linear-gradient(90deg,#4facfe,#00f2fe)" />
+![header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=%EC%A3%BC%EC%96%B4%EC%A7%84%20%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C%20%EC%B2%B4%EC%84%A0%EC%9D%84%20%EB%8B%A4%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4!&fontSize=40)
 
 ### 👨‍💻 About Me
 - 💡 **Problem Solver**: 복잡한 비즈니스 로직을 MSA 구조로 풀어내는 과정에 몰입합니다.
