@@ -1,4 +1,4 @@
-# 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 hanbeen03입니다!
+# 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 이한빈입니다!
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Growing%20Developer%20Hanbeen&fontSize=50" />
