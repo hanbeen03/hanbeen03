@@ -1,7 +1,7 @@
 # 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 이한빈입니다!
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Growing%20Developer%20Hanbeen&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=주어진%20자리에서%20최선을%20다하겠습니다!&fontSize=50" />
 </p>
 
 ### 👨‍💻 About Me
@@ -56,8 +56,8 @@
 
 ### 📫 Contact Me
 <p align="left">
-  <a href="mailto:이메일주소@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://본인블로그주소.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:hanbeen03@hanmail.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://blog.naver.com/hanbeen03"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 <!--
 **hanbeen03/hanbeen03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
