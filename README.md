@@ -1,6 +1,5 @@
 # 🚀 안녕하세요, 견고한 시스템을 설계하는 백엔드 개발자 이한빈입니다!
 
-# 🚀 주어진 자리에서 최선을 다하겠습니다!
 <img src="https://k-header.vercel.app/api?text=Best%20Backend%20Developer&fontSize=40&fontColor=ffffff&centerX=50&centerY=50&width=900&height=200&background=linear-gradient(90deg,#4facfe,#00f2fe)" />
 
 ### 👨‍💻 About Me
